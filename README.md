@@ -1,6 +1,6 @@
 # star-wars
 
-nstructions
+Instructions
 
 First version
 create the repository
